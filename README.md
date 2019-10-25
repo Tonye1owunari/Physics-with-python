@@ -1,2 +1,2 @@
 # Physics-with-python
-Python code snippet to help with assignments on linear accelerated motion and perimeter.
+Python code snippet to solve questions on linear accelerated motion and perimeter.
